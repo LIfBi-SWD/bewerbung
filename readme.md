@@ -6,24 +6,24 @@ Geben Sie auf dem Bildschirm eine kleine Sanduhr mit einer bestimmten Breite aus
 
 
 Breite 3
-´
+````
  ***
   *
  ***
- ´
+````
 
 Breite 4 
-´
+````
  ****
   **
  ****
- ´
- 
+````
+
 Breite 5
-´
+````
  *****
   ***
    *
   ***
  *****
- ´
+````
