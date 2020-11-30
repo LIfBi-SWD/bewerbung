@@ -4,7 +4,7 @@ namespace lifbi.sanduhr.logic
 {
     public class Sanduhr
     {
-        public string Print(int height){
+        public string Print(int width){
             return "*";
         }
     }
