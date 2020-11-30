@@ -45,7 +45,7 @@ Das SDK kommt mit einer Kommandozeilen Erweiterung und nach der Installation sol
 Es ist zu empfehlen sich für diese Aufgabe [Visual Studio Code](https://code.visualstudio.com/) zu installieren, das ist die leichtgewichtige Version des großen Bruders, dem Visual Studio. Mit dem Tastaturkürzel [Strg+ö] lässt sich eine Console im aktuellen Ordner auf. In der Konsole können Sie dann die Kommandozeilenbefehle für den .Net Code aufrufen. 
 
 
-Um die Test für die Sanduhrklasse zu starten geben sie folgenden Befehl in der Konsole ein:
+Um die Test für die Sanduhrklasse zu starten geben Sie folgenden Befehl in der Konsole ein:
 ````
  dotnet test
 ````
