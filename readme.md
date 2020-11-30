@@ -36,9 +36,8 @@ Breite 5
 - [.Net SDK](https://dotnet.microsoft.com/download/dotnet/5.0)
 
 ## Anleitung
-Clonen sie sich das Projekt in einen Ordner Ihrer Wahl und legen Sie einen Brunch unter ihrem Namen an, auf diesem Brunch sollten sie dann über 
-Github einen Pull-Request stellen.
-
+Erstellen Sie einen Fork des Codes legen Sie einen Brunch an, auf dem Sie arbeiten wollen. Mit diesem Brunch erstellen Sie später einen Pull Request auf Github in das ursprüngliche Lifbi-Bewerbungs-Repository. Eine genaue Anleitung für Pull Requests finden Sie hier [https://gist.github.com/MarcDiethelm/7303312](https://gist.github.com/MarcDiethelm/7303312).
+ 
 Installieren Sie sich zunächst das neuste [.Net SDK](https://dotnet.microsoft.com/download/dotnet/5.0). Die Anwendung ist mit .Net 5 geschrieben. 
 Das SDK kommt mit einer Kommandozeilen Erweiterung und nach der Installation sollten Sie *dotnet* in der Konsole eingeben können.
 
@@ -50,3 +49,5 @@ Um die Test für die Sanduhrklasse zu starten geben sie folgenden Befehl in der 
 ````
  dotnet test
 ````
+
+Ziel ist es das alle Tests erfolgreich sind. Viel Vergnügen mit dieser kleinen Herausforderung.
