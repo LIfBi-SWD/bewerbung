@@ -33,13 +33,13 @@ Breite 5
 ## Vorraussetzungen
 - [Git](https://git-scm.com/)
 - [Github Account](https://github.com)
-- [.Net SDK](https://dotnet.microsoft.com/download/dotnet/5.0)
+- [.NET SDK](https://dotnet.microsoft.com/download/dotnet/5.0)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Anleitung
-Erstellen Sie einen Fork des Codes legen Sie einen Brunch an, auf dem Sie arbeiten wollen. Mit diesem Brunch erstellen Sie später einen Pull Request auf Github in das ursprüngliche Lifbi-Bewerbungs-Repository. Eine genaue Anleitung für Pull Requests finden Sie hier [https://gist.github.com/MarcDiethelm/7303312](https://gist.github.com/MarcDiethelm/7303312).
+Erstellen Sie einen Fork des Codes legen Sie einen Branch an, auf dem Sie arbeiten wollen. Mit diesem Branch erstellen Sie später einen Pull Request auf Github in das ursprüngliche LIfBi-Bewerbungs-Repository. Eine genaue Anleitung für Pull Requests finden Sie hier [https://gist.github.com/MarcDiethelm/7303312](https://gist.github.com/MarcDiethelm/7303312).
  
-Installieren Sie sich zunächst das neuste [.Net SDK](https://dotnet.microsoft.com/download/dotnet/5.0). Die Anwendung ist mit .Net 5 geschrieben. 
+Installieren Sie sich zunächst das neuste [.NET SDK](https://dotnet.microsoft.com/download/dotnet/5.0). Die Anwendung ist mit .NET 5 geschrieben. 
 Das SDK kommt mit einer Kommandozeilen Erweiterung und nach der Installation sollten Sie *dotnet* in der Konsole eingeben können.
 
 Es ist zu empfehlen sich für diese Aufgabe [Visual Studio Code](https://code.visualstudio.com/) zu installieren, das ist die leichtgewichtige Version des großen Bruders, dem Visual Studio. Mit dem Tastaturkürzel [Strg+ö] lässt sich eine Console im aktuellen Ordner auf. In der Konsole können Sie dann die Kommandozeilenbefehle für den .Net Code aufrufen. 
