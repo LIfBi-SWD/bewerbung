@@ -26,14 +26,17 @@ namespace lifbi.sanduhr.logic
             {
                 result += GetSpaces(i - 1);
                 result += GetStars(width - 2 * (i - 1));
-                result += "\n";
+                result += Environment.NewLine;
             }
 
             for (int j = halfWidth - 1; j >= 1; j--)
             {               
                 result += GetSpaces(j - 1);
                 result += GetStars(width - 2 * (j - 1));
-                result += "\n";              
+                if (j > 1)
+                {
+                    result += Environment.NewLine;
+                }             
             }
 
             return result;
